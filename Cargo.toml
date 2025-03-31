@@ -1,0 +1,8 @@
+[package]
+name = "Pong"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+piston_window = "0.127.0"
+find_folder = "0.3"
