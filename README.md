@@ -17,3 +17,11 @@ First Release:
   - Final update will make it into a fully fledged application that saves your record with story mode and has an arcade-style leaderboard at the end for users
   - Final update will also hopefully include sound effects when hitting the ball, when a player scores, and when the game is over.
   - Another planned feature will be a challenge mode where additional obstacles are placed at various positions that add additional challenge to the game for users to practice their precision
+
+Other Ideas:
+- Power-ups such as paddle size increasing/decreasing, multi-ball, sticky paddle, etc.
+- add a spin mechanic for the ball to add more physics
+- add more paddle shapes/behaviors
+- increase the quality of the AI that doesn't just increase its speed
+- Visual effects such as ball trail, score flash, hit effects, etc.
+- ghost mode where it allows players to play against a "ghost" of the best game played
