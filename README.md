@@ -1,6 +1,8 @@
 # single-pong
 Creates a basic single player Pong game against a CPU.
 
+NOTE: I will be working on this a small bit here and there, but I won't really get the chance to really hit hard on the code until after my semester ends. Once my semester ends, then I will be going full steam on my projects
+
 Language: Rust
 
 This is my first real project in Rust, so I'm giving a crack at it with my typical first pass to learn some code by implementing Pong. This allows me to understand some of the syntax and operations while simultaneously working on my skills with event handlers. I am excited for this project because I decided that this would be a good first program to build with Rust once I learned more about the language.
