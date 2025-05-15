@@ -1,7 +1,7 @@
 # single-pong
 Creates a basic single player Pong game against a CPU.
 
-NOTE: I will be working on this a small bit here and there, but I won't really get the chance to really hit hard on the code until after my semester ends. Once my semester ends, then I will be going full steam on my projects. For the next 2 weeks, I will pretty much exclusively be doing updates to READMEs
+Done with semester, regular updates will resume this Friday (5/16/25)
 
 Language: Rust
 
