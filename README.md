@@ -20,8 +20,13 @@ First Release:
 
 Other Ideas:
 - Power-ups such as paddle size increasing/decreasing, multi-ball, sticky paddle, etc.
-- add a spin mechanic for the ball to add more physics
 - add more paddle shapes/behaviors
 - increase the quality of the AI that doesn't just increase its speed
 - Visual effects such as ball trail, score flash, hit effects, etc.
 - ghost mode where it allows players to play against a "ghost" of the best game played
+
+Final Touches
+- Advanced ball physics: including things such as drag, variable bounce angles, increasing/decreasing velocity based on how the ball is hit
+- Refined visuals: additional menu animations and particle effects, screen shake, backgrounds, etc.
+- Refined Audio: dynamic music
+- Full-fledged documentation
